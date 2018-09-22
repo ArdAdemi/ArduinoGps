@@ -6,10 +6,17 @@ Webmos board D1 is essentially an Arduino with a esp8266 sensor and the pins on 
 
 Library that were used:
 
-TinyGPS++
-SoftwareSerial
-ESP8266HTTPClient
-ESP8266WiFi
-ArduinoJson
-SoftwareSerial
+TinyGPS++;
 
+SoftwareSerial;
+
+ESP8266HTTPClient;
+
+ESP8266WiFi;
+
+ArduinoJson;
+
+SoftwareSerial;
+
+
+![alt text](https://image.ibb.co/dpOMGp/Webmos_d1.png)
